@@ -20,5 +20,9 @@ NatSpec multi-line comment
 /// @author The HMI Guy.
 /// @dev Please use Hashlips's video series.
 contract MyContract {
-    
+    string public name = "TheHMIGuy";
+
+    function updateName( string memory _newName) public {
+        name = _newName;
+    }
 }
