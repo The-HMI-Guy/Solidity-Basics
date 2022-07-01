@@ -16,7 +16,7 @@ NatSpec multi-line comment
 */
 
 
-/// @title The best smart contract.
+/// @title Contract was built following Hashlip's video series.
 /// @author The HMI Guy.
 /// @dev Please use Hashlips's video series.
 contract MyContract {
