@@ -1,0 +1,23 @@
+{
+  "name": "solidity-basics",
+  "version": "1.0.0",
+  "description": "# Part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-HMI-Guy/Solidity-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-HMI-Guy/Solidity-Basics/issues"
+  },
+  "homepage": "https://github.com/The-HMI-Guy/Solidity-Basics#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
