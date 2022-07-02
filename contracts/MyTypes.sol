@@ -11,6 +11,9 @@ contract MyTypes {
 
     //If a variable is not marked as public, you will not have access to the getter function. 
     //Getter function allows you to read the value from the contract.
+    //By default if a variable is not marked, its' default state is private.
+    //Marking a variable as internal, only the smart contract or inherit the contract will have access.
+    //Organize variables by their datatype. More efficient.
     bool public myBoolean = false;
 
     uint256 public  myUint256 = 15464; //default uint = uint256
@@ -18,7 +21,7 @@ contract MyTypes {
     uint16 public  myUint16 = 6773;
     uint8 public  myUint8 = 255; //0-255 | 2 ** 8 - 1 = 255
 
-    int256 myInt256 = 15464; //default uint = uint256
+    int256 internal myInt256 = 15464; //default uint = uint256
     int32 myInt32 = 675656;
     int16 myInt16 = 6773;
     int8 myInt8 = -128; //0-255 | 2 ** 8 - 1 = 255
