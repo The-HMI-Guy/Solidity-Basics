@@ -26,6 +26,10 @@ contract MyTypes {
     int16 myInt16 = 6773;
     int8 myInt8 = -128; //0-255 | 2 ** 8 - 1 = 255
 
-    address public  myAddress = 0x7B05E576A5aC57aBebc1D26F83954b2c522FAa3d;
+    address payable myAddress = payable(0x7B05E576A5aC57aBebc1D26F83954b2c522FAa3d); //type casting; helps the compiler
+    address myContractAddress = address(this);
+
+    uint256 balanceOfMyAddress = myAddress.balance;
+
 
 }
