@@ -22,6 +22,7 @@ NatSpec multi-line comment
 contract MyContract {
     string public name = "TheHMIGuy";
 
+    /// @notice This function changes the name of the name variable
     function updateName( string memory _newName) public {
         name = _newName;
     }
