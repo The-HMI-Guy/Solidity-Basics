@@ -10,7 +10,7 @@ pragma solidity ^0.8.0;
 contract MyVariable {
     uint256 number = 20; //state variable (stored on the blockchain forever)
     bool paused = true; //state variable
-    uint256 time = block.timestamp; //state variable saving a global variabel
+    uint256 internal time = block.timestamp; //state variable saving a global variabel
 
     function myFunct() public view{
         //uint256 localNumber = 20; //local variables (memory)
