@@ -16,6 +16,8 @@ contract MyIfElse {
         if (revealState >= 5) {
             isNowRevealed = true;
             status = "Is now revealed!";
+        } else if (revealState >= 3) {
+            status = "Almost there!";
         } else {
             status = "Nope still not revealed";
         }
