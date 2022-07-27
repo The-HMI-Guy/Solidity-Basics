@@ -3,6 +3,20 @@ import "hardhat/console.sol";
 
 pragma solidity ^0.8.0;
 
-contract MyEnums{
-    uint8 rarity = 0; // 0 = original, 1 = rare, 2 = super rate
+contract MyEnums {
+    enum rarity {
+        original,
+        rare,
+        super_rare
+    }
+
+    rarity public rarity_example;
+
+    constructor() {
+        rarity_example = rarity.rare;
+    }
+
+    function makeSuperRare() public {
+        rarity_example = rarity.super_rare;
+    }
 }
