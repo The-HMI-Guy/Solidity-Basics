@@ -15,6 +15,11 @@ contract MyStructs {
         nftList.push(newNFT);
     }
 
+    function updateNFT(uint256 _idex, string memory _name) public {
+        NFT storage nftToBeUpdated = nftList[_idex];
+        nftToBeUpdated.name = _name;
+    }
+
     function getNFTName(uint256 _index) public view returns (string memory) {
         return nftList[_index].name;
     }
