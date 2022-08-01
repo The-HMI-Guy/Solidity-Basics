@@ -9,4 +9,8 @@ contract MyFunctions {
     bool myBool = true;
     uint256[] myArr = [3,3,3];
 
+    function myFunc () public {
+        
+    }
+
 }
