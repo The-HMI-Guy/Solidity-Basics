@@ -17,12 +17,25 @@ contract MyFunctions {
         return _x + _y;
     }
 
-    function myViewFunc() public view returns (string memory) {
+    function myViewFunc() internal view returns (string memory) {
         return myString;
     }
 
     function myUpdateFunc() public returns (string memory) {
         myString = "Hellow Wrold";
         return myString;
+    }
+
+    function myReturnsFunc()
+        external
+        view
+        returns (
+            uint256,
+            string memory,
+            bool,
+            uint256[] memory
+        )
+    {
+        return (myUint, myString, myBool, myArr);
     }
 }
