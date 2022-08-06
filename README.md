@@ -1,12 +1,52 @@
 # Solidity Basics From Hashlips's Video Series
 
-# Part 1
-
-- https://www.youtube.com/watch?v=sngKPYfUgkc
-
 - I will be using Remix and Hardhat during this series.
 - npm init --yes
 - npm install --save-dev hardhat
+
+# Part 1
+
+- https://www.youtube.com/watch?v=sngKPYfUgkc&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=1
+
+# Part 2
+
+- https://www.youtube.com/watch?v=C70XrG5yGQo&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=2
+
+# Part 3
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=3
+
+# Part 4
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=4
+
+# Part 5
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=5
+
+# Part 6
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=6
+
+# Part 7
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=7
+
+# Part 8
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=8
+
+# Part 9
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=9
+
+# Part 10
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=10
+
+# Part 11
+
+- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=11
 
 # Advanced Sample Hardhat Project
 
