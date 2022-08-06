@@ -14,7 +14,7 @@
 
 # Part 3
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=3
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/AFma5JYgIIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Part 4
 
