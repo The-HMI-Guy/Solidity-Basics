@@ -18,7 +18,7 @@ contract NFT {
 contract MyImport is ERC721 {
     NFT[] public nfts;
     string myName = "Daniel"; //cost a lot of gas
-    byte32 myBytesName = "Daniel";
+    bytes32 myBytesName = "Daniel";
 
     constructor(string memory name_, string memory symbol_)
         ERC721(name_, symbol_)
