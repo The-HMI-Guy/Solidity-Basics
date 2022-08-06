@@ -17,6 +17,8 @@ contract NFT {
 
 contract MyImport is ERC721 {
     NFT[] public nfts;
+    string myName = "Daniel"; //cost a lot of gas
+    byte32 myBytesName = "Daniel";
 
     constructor(string memory name_, string memory symbol_)
         ERC721(name_, symbol_)
@@ -25,5 +27,9 @@ contract MyImport is ERC721 {
     function addNft(string memory _name, uint256 _dna) public {
         NFT nft = new NFT(_name, _dna);
         nfts.push(nft);
+    }
+
+    function myHashName(string memory _name) public pure returns(bytes32) {
+        return keccak256(abi.encodePacked(_name)); //hash function
     }
 }
