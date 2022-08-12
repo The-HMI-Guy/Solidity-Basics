@@ -1,9 +1,5 @@
 # Solidity Basics From Hashlips's Video Series
 
-- I will be using Remix and Hardhat during this series.
-- npm init --yes
-- npm install --save-dev hardhat
-
 # Youtube Links
 
 ### Part 1
