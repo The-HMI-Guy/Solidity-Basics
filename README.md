@@ -12,11 +12,11 @@
 
 ### Part 2
 
-[![Thumbnail](https://img.youtube.com/vi/C70XrG5yGQo&t/maxresdefault.jpg)](https://youtu.be/C70XrG5yGQo)
+[![Thumbnail](https://img.youtube.com/vi/C70XrG5yGQo/maxresdefault.jpg)](https://youtu.be/C70XrG5yGQo)
 
 ### Part 3
 
-[![Thumbnail](https://img.youtube.com/vi/AFma5JYgIIE&t/maxresdefault.jpg)](https://youtu.be/AFma5JYgIIE)
+[![Thumbnail](https://img.youtube.com/vi/AFma5JYgIIE/maxresdefault.jpg)](https://youtu.be/AFma5JYgIIE)
 
 ### Part 4
 
