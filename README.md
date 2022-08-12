@@ -20,35 +20,35 @@
 
 ### Part 4
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=4
+[![Thumbnail](https://img.youtube.com/vi/KlO23rhqEnw/maxresdefault.jpg)](https://youtu.be/KlO23rhqEnw)
 
 ### Part 5
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=5
+[![Thumbnail](https://img.youtube.com/vi/64SiCO_GzDo/maxresdefault.jpg)](https://youtu.be/64SiCO_GzDo)
 
 ### Part 6
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=6
+[![Thumbnail](https://img.youtube.com/vi/t9Ar0i_IwZ0/maxresdefault.jpg)](https://youtu.be/t9Ar0i_IwZ0)
 
 ### Part 7
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=7
+[![Thumbnail](https://img.youtube.com/vi/MpWZStxeabk/maxresdefault.jpg)](https://youtu.be/MpWZStxeabk)
 
 ### Part 8
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=8
+[![Thumbnail](https://img.youtube.com/vi/P1J0HeQINcM/maxresdefault.jpg)](https://youtu.be/P1J0HeQINcM)
 
 ### Part 9
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=9
+[![Thumbnail](https://img.youtube.com/vi/zzLhhza5Cho/maxresdefault.jpg)](https://youtu.be/zzLhhza5Cho)
 
 ### Part 10
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=10
+[![Thumbnail](https://img.youtube.com/vi/KQ8bTt6Jhjk/maxresdefault.jpg)](https://youtu.be/KQ8bTt6Jhjk)
 
 ### Part 11
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=11
+[![Thumbnail](https://img.youtube.com/vi/SPeKei4K-18/maxresdefault.jpg)](https://youtu.be/SPeKei4K-18)
 
 # Advanced Sample Hardhat Project
 
