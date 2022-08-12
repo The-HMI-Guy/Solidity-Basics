@@ -4,17 +4,19 @@
 - npm init --yes
 - npm install --save-dev hardhat
 
+# Youtube Links
+
 ### Part 1
 
-- [![Thumbnail](https://img.youtube.com/vi/sngKPYfUgkc/maxresdefault.jpg)](https://youtu.be/sngKPYfUgkc)
+[![Thumbnail](https://img.youtube.com/vi/sngKPYfUgkc/maxresdefault.jpg)](https://youtu.be/sngKPYfUgkc)
 
 ### Part 2
 
-- https://www.youtube.com/watch?v=C70XrG5yGQo&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=2
+[![Thumbnail](https://img.youtube.com/vi/C70XrG5yGQo&t=5s/maxresdefault.jpg)](https://youtu.be/C70XrG5yGQo)
 
 ### Part 3
 
-- https://www.youtube.com/watch?v=AFma5JYgIIE&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=3
+[![Thumbnail](https://img.youtube.com/vi/AFma5JYgIIE&t=1s/maxresdefault.jpg)](https://youtu.be/AFma5JYgIIE)
 
 ### Part 4
 
