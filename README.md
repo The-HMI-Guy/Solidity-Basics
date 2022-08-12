@@ -6,7 +6,7 @@
 
 ### Part 1
 
-- https://www.youtube.com/watch?v=sngKPYfUgkc&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo&index=1
+- [![Thumbnail](https://img.youtube.com/vi/sngKPYfUgkc/maxresdefault.jpg)](https://youtu.be/sngKPYfUgkc)
 
 ### Part 2
 
